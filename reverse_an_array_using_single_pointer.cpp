@@ -23,4 +23,5 @@ int main(){
         cout<<it<<" ";
     }cout<<"\n";
 cout<<"\n";
+    
 }
